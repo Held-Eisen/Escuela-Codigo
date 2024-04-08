@@ -1,7 +1,7 @@
 Algoritmo Salario
-	Escribir 'hola, ingresa tu sueldo'
+	Escribir 'hola, ingresa tu sueldo por hora'
 	Leer ph
-	Escribir 'ingresa las horas trabajadas'
+	Escribir 'ingresa las horas trabajadas durante la semana'
 	Leer ht
 	Si 1<ph Y ht>0 Entonces
 		Si ht>40 Entonces
